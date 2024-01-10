@@ -1,0 +1,61 @@
+{
+  "configurations" : [
+    {
+      "id" : "67C23FE1-1793-4C7C-A8E3-9E2C6DDA2F46",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:JobsJobs.xcodeproj",
+      "identifier" : "8D972B332B4C2A4900978EAB",
+      "name" : "JobsJobs"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:JobsJobs.xcodeproj",
+        "identifier" : "8D972B442B4C2A4C00978EAB",
+        "name" : "JobsJobsTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Packages\/Feature",
+        "identifier" : "FeatureTests",
+        "name" : "FeatureTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Packages\/Logic",
+        "identifier" : "LogicTests",
+        "name" : "LogicTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Packages\/Repositories",
+        "identifier" : "RepositoriesTests",
+        "name" : "RepositoriesTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Packages\/ViewModels",
+        "identifier" : "ViewModelsTests",
+        "name" : "ViewModelsTests"
+      }
+    }
+  ],
+  "version" : 1
+}
