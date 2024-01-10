@@ -7,8 +7,8 @@
 
 [Clean MVVM](https://medium.com/p/26a4ace6fc72)
 
-<img width="500" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mHJTRaLd_hqJO-KA2NMTSQ.png">
-<img width="300" src="https://github.com/marcos1262/poly-token/blob/main/packages.png">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mHJTRaLd_hqJO-KA2NMTSQ.png">
+<img width="500" src="https://github.com/marcos1262/jobs-jobs/blob/main/packages.png?raw=true">
 
 ## 👩🏾‍💻 Technologies
 - [x] SwiftUI
