@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 
 > An iOS app that lists some jobs.
-> Based on the demo project from Perry Street Software using Clean MVVM Architecture.
+> Based on the [demo project from Perry Street Software](https://github.com/perrystreetsoftware/DemoAppIOS) using Clean MVVM Architecture.
 
 [Clean MVVM](https://medium.com/p/26a4ace6fc72)
 
